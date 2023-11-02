@@ -9,43 +9,43 @@ Pixelpallete is designed to connect artists with art enthusiasts. It serves as a
 ## Usage
 1. Signup/Login:<br>
 For the best experience, you will need to login or signup. You can do that by clickking on either the signup or login button:<br>
-[Signup/Login](https://imgur.com/a/Mf3Dao6)<br>
+![Signup/Login](https://imgur.com/a/Mf3Dao6)<br>
 If you are signing up, you have the option to choose to either sign up as an artist or an art enthusiast:<br>
-[Signup](https://imgur.com/a/ishARyD)<br>
+![Signup](https://imgur.com/a/ishARyD)<br>
 
 2. Explore Artworks:<br>
 Visit the website and start exploring the diverse range of art showcased by talented artists.<br>
-[Explore the page](https://imgur.com/a/yUKVUQZ)<br>
+![Explore the page](https://imgur.com/a/yUKVUQZ)<br>
 
 3. Artist Interaction:<br>
 Engage with artists by leaving comments or expressing interest in purchasing their artworks. You can filter by categories provided and click on them to view individual arts.<br>
-[Interacting with arts](https://imgur.com/a/SaYJvEM)<br>
+![Interacting with arts](https://imgur.com/a/SaYJvEM)<br>
 
 4. Uploading art:<br>
 As an artist you will be able to upload your media along with a description and price tag to the platform. Just click on the hamburger button on the top left of your screen and choose to `Add An Artwork`<br>
-[Uploading media](https://imgur.com/a/6xnjUFr)
+![Uploading media](https://imgur.com/a/6xnjUFr)
 
 5. Purchasing Art:<br>
 If you find an art piece you love, view the art and add it to your favorites cart(highlighted).<br>
-[Purchasing items](https://imgur.com/a/1H4gCy6)<br>
+![Purchasing items](https://imgur.com/a/1H4gCy6)<br>
 Your items will appear in your cart.<br>
-[Cart](https://imgur.com/a/kAu6cPd)<br>
+![Cart](https://imgur.com/a/kAu6cPd)<br>
 
 6. Add exhibitions:<br>
 As an artist, you might want to exhibit your work on the platform and you can do that by:<br>
-[Create an exhibit](https://imgur.com/a/TS6lped)<br>
+![Create an exhibit](https://imgur.com/a/TS6lped)<br>
 You then need to specify for how long you want the exhibit to run.<br>
-[Creating exhibit](https://imgur.com/a/KYxdcyn)<br>
+![Creating exhibit](https://imgur.com/a/KYxdcyn)<br>
 After that you need to add you artwork to the exhibit by visiting your `My Artworks` page and adding to exhibit.<br>
-[Adding art to exhibit](https://imgur.com/a/ViZN2Ku)<br>
+![Adding art to exhibit](https://imgur.com/a/ViZN2Ku)<br>
 You should see it appear in the Exhibits section of your page.<br>
-[Exhibits][https://imgur.com/a/dIntlzm]<br>
+![Exhibits][https://imgur.com/a/dIntlzm]<br>
 Additionally you can add an exhibit while uploading your media by chosing to upload to `exhibit artwork`.<br>
-[Uploading to exhibit](https://imgur.com/a/2UZJcJt)<br>
+![Uploading to exhibit](https://imgur.com/a/2UZJcJt)<br>
 
 7. Discover Artists:<br>
 You can be able to see all artists by visiting the artists page where you can view all artworks of a specific artist.<br>
-[Artists page](https://imgur.com/a/BOaM5Et)<br>
+![Artists page](https://imgur.com/a/BOaM5Et)<br>
 
 ## Technologies used
 * HTML, CSS, JavaScript for frontend development.
@@ -60,4 +60,4 @@ You can be able to see all artists by visiting the artists page where you can vi
 
 ## Acknowledgment
 * [ALX](https://www.alxafrica.com/) - software engineering.
-* **Florence Njeri Kamau** - [@kamaufnjeri] for the inspiration.
+* **Florence Njeri Kamau** - [@kamaufnjeri](https://github.com/kamaufnjeri) for the inspiration.
