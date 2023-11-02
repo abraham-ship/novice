@@ -45,7 +45,7 @@ Additionally you can add an exhibit while uploading your media by chosing to upl
 
 7. Discover Artists:<br>
 You can be able to see all artists by visiting the artists page where you can view all artworks of a specific artist.<br>
-![Artists page](https://imgur.com/a/BOaM5Et)<br>
+![Artists page](https://imgur.com/a/BOaM5Et.png)<br>
 
 ## Technologies used
 * HTML, CSS, JavaScript for frontend development.
