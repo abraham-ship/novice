@@ -23,7 +23,7 @@ Engage with artists by leaving comments or expressing interest in purchasing the
 
 4. Uploading art:<br>
 As an artist you will be able to upload your media along with a description and price tag to the platform. Just click on the hamburger button on the top left of your screen and choose to `Add An Artwork`<br>
-![Uploading media](https://imgur.com/a/6xnjUFr)
+![Uploading media](https://www.dropbox.com/scl/fi/51zsbt43vrt2cgfwi2z9m/upl.jpg?rlkey=u44vbeliakenvv5t42e703v14&dl=0)
 
 5. Purchasing Art:<br>
 If you find an art piece you love, view the art and add it to your favorites cart(highlighted).<br>
@@ -39,13 +39,13 @@ You then need to specify for how long you want the exhibit to run.<br>
 After that you need to add you artwork to the exhibit by visiting your `My Artworks` page and adding to exhibit.<br>
 ![Adding art to exhibit](https://imgur.com/a/ViZN2Ku)<br>
 You should see it appear in the Exhibits section of your page.<br>
-![Exhibits](https://imgur.com/a/dIntlzm)<br>
+![Exhibits][https://imgur.com/a/dIntlzm]<br>
 Additionally you can add an exhibit while uploading your media by chosing to upload to `exhibit artwork`.<br>
 ![Uploading to exhibit](https://imgur.com/a/2UZJcJt)<br>
 
 7. Discover Artists:<br>
 You can be able to see all artists by visiting the artists page where you can view all artworks of a specific artist.<br>
-![Artists page](https://imgur.com/a/BOaM5Et.png)<br>
+![Artists page](https://imgur.com/a/BOaM5Et)<br>
 
 ## Technologies used
 * HTML, CSS, JavaScript for frontend development.
