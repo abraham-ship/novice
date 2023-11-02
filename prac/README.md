@@ -33,7 +33,7 @@ Your items will appear in your cart.<br>
 
 6. Add exhibitions:<br>
 As an artist, you might want to exhibit your work on the platform and you can do that by:<br>
-![Create an exhibit](https://console.cloudinary.com/console/c-56d0585271def4064b92f1420db0e0/media_library/homepage/asset/d9d438927563cb1f6335626350c8fce2/manage?context=manage)<br>
+![Create an exhibit](https://asset.cloudinary.com/dpuljncrk/3260609306ece7f1a72b959e55b95814)<br>
 You then need to specify for how long you want the exhibit to run.<br>
 ![Creating exhibit](https://imgur.com/a/KYxdcyn)<br>
 After that you need to add you artwork to the exhibit by visiting your `My Artworks` page and adding to exhibit.<br>
