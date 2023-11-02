@@ -39,7 +39,7 @@ You then need to specify for how long you want the exhibit to run.<br>
 After that you need to add you artwork to the exhibit by visiting your `My Artworks` page and adding to exhibit.<br>
 ![Adding art to exhibit](https://imgur.com/a/ViZN2Ku)<br>
 You should see it appear in the Exhibits section of your page.<br>
-![Exhibits][https://imgur.com/a/dIntlzm]<br>
+![Exhibits](https://imgur.com/a/dIntlzm)<br>
 Additionally you can add an exhibit while uploading your media by chosing to upload to `exhibit artwork`.<br>
 ![Uploading to exhibit](https://imgur.com/a/2UZJcJt)<br>
 
