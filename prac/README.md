@@ -23,7 +23,7 @@ Engage with artists by leaving comments or expressing interest in purchasing the
 
 4. Uploading art:<br>
 As an artist you will be able to upload your media along with a description and price tag to the platform. Just click on the hamburger button on the top left of your screen and choose to `Add An Artwork`<br>
-![Uploading media](https://www.dropbox.com/scl/fi/51zsbt43vrt2cgfwi2z9m/upl.jpg?rlkey=u44vbeliakenvv5t42e703v14&dl=0)
+![Uploading media](https://previews.dropbox.com/p/thumb/ACHbMoRov01stLgYb6kEZQYRXA_NU1H5Cm43Ar5Jo7UQayamixAl_SbqVoCySXZCLceW_lUtM1PsgZsqAYdK5NFTS0gWTl-BV4TPJIAowYP8Du6NN2R_9BehVJJu3uGHRV0jusLbvBqsQjclU4ZsSBHEfBYyDjEdPslM3ev2FrV7S0-imHF0x15BjoRLPGSJ8xPBDD7058hjkUpsLS_LCL0ix18GqhsD7p8ylTIaYb6B7KiLkvSBbwmkKNumsjy-zWus59Q9Nd629vzq_JaM8rQyeSmH3u_VpV-7ploVmu8g2-DLH8wdUWrc-WKZAuSiTEW_5PTk_yHnTixEOetNRpkt/p.jpeg)
 
 5. Purchasing Art:<br>
 If you find an art piece you love, view the art and add it to your favorites cart(highlighted).<br>
@@ -39,7 +39,7 @@ You then need to specify for how long you want the exhibit to run.<br>
 After that you need to add you artwork to the exhibit by visiting your `My Artworks` page and adding to exhibit.<br>
 ![Adding art to exhibit](https://imgur.com/a/ViZN2Ku)<br>
 You should see it appear in the Exhibits section of your page.<br>
-![Exhibits][https://imgur.com/a/dIntlzm]<br>
+![Exhibits](https://imgur.com/a/dIntlzm)<br>
 Additionally you can add an exhibit while uploading your media by chosing to upload to `exhibit artwork`.<br>
 ![Uploading to exhibit](https://imgur.com/a/2UZJcJt)<br>
 
