@@ -9,7 +9,7 @@ Pixelpallete is designed to connect artists with art enthusiasts. It serves as a
 ## Usage
 1. Signup/Login:<br>
 For the best experience, you will need to login or signup. You can do that by clickking on either the signup or login button:<br>
-![Signup/Login](https://imgur.com/a/Mf3Dao6.jpg)<br>
+![Signup/Login](https://imgur.com/a/Mf3Dao6.jpeg)<br>
 If you are signing up, you have the option to choose to either sign up as an artist or an art enthusiast:<br>
 ![Signup](https://imgur.com/a/ishARyD)<br>
 
